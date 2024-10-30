@@ -2,8 +2,8 @@
 #
 <img src="https://i.pinimg.com/originals/a2/f5/96/a2f596cb74718016686ff7ea67be5d7d.jpg" min-width="200px" max-width="200px" width="200px" align="right">
 
-     Cursando Ciência de Dados e Inteligência Artificial na UFPB.
-> Estudo e programo em **Python e C** <br>
+     Cursando Ciência de Dados e Inteligência Artificial na UEPB.
+> **Python, SQL, C, Power Bi ** <br>
 > Contato: **jeova.herminio@gmail.com**
 
 <p align="right">
