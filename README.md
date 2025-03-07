@@ -1,31 +1,37 @@
-# Olá, seja bem-vindo ao meu GitHub! 👋
+<h1 align="center">Olá, seja bem-vindo(a) ao meu GitHub! 👋</h1>
 
-**Cursando Ciência de Dados e Inteligência Artificial na UEPB.**
-
-> **Contato:** [jeova.herminio@gmail.com](mailto:jeova.herminio@gmail.com)
+<p align="center">
+  <b>Cursando Ciência de Dados e Inteligência Artificial na UEPB.</b><br>
+</p>
 
 ---
 
 ## Tecnologias & Ferramentas
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
-[![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)](https://powerbi.microsoft.com/)
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C">
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=microsoft-power-bi&logoColor=white" alt="Power BI">
+  </a>
+</p>
 
 ---
 
 ## Áreas de Interesse
 
-- Ciência de Dados
-- Inteligência Artificial
-- Machine Learning
-- Análise de Dados
+- Ciência de Dados  - Inteligência Artificial  - Machine Learning  - Análise de Dados  
 
 ---
 
-## Visual
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Data Science GIF" />
+
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" alt="Minimalistic Chess GIF" width="400"/>
 </p>
