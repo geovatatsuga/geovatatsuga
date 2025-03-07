@@ -1,10 +1,16 @@
 <h1 align="center">Olá, seja bem-vindo(a) ao meu GitHub! 👋</h1>
 
 <p align="center">
-  <b>Cursando Ciência de Dados  na UEPB.</b>
+  <b>Cursando Ciência de Dados na UEPB.</b>
 </p>
 
+Sou cientista de dados e estudante, sempre explorando novas técnicas e aprimorando minhas habilidades. Trabalho com análise, modelagem e automação de processos baseados em dados. Me interesso por desafios complexos e soluções eficientes. Aqui, compartilho projetos e estudos que aplico no dia a dia.
+
 ---
+<p align="center">
+  <img src="https://media.giphy.com/media/110YfuwtzXGaaI/giphy.gif" alt="GIF animado">
+</p>
+
 
 ## Tecnologias & Ferramentas
 
@@ -33,7 +39,6 @@
   <code>Machine Learning</code> • 
   <code>Análise de Dados</code>
 </p>
-
 
 <p align="center">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Data Science GIF"/>
