@@ -1,14 +1,31 @@
+# Olá, seja bem-vindo ao meu GitHub! 👋
 
-#
-<img src="https://i.pinimg.com/originals/a2/f5/96/a2f596cb74718016686ff7ea67be5d7d.jpg" min-width="200px" max-width="200px" width="200px" align="right">
+**Cursando Ciência de Dados e Inteligência Artificial na UEPB.**
 
-     Cursando Ciência de Dados e Inteligência Artificial na UEPB.
-> **Python, SQL, C, Power Bi ** <br>
-> Contato: **jeova.herminio@gmail.com**
+> **Contato:** [jeova.herminio@gmail.com](mailto:jeova.herminio@gmail.com)
 
-<p align="right">
-<img align="center" alt="Mari-C" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-<img align="center" alt="Mari-C" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+---
+
+## Tecnologias & Ferramentas
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)](https://powerbi.microsoft.com/)
+
+---
+
+## Áreas de Interesse
+
+- Ciência de Dados
+- Inteligência Artificial
+- Machine Learning
+- Análise de Dados
+
+---
+
+## Visual
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Data Science GIF" />
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
