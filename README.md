@@ -36,6 +36,7 @@ Sou cientista de dados e estudante, também muito habilidoso em Front End e Ai, 
 <p align="center">
   <code>Ciência de Dados</code> • 
   <code>Inteligência Artificial</code> • 
+  <code>Front End</code> • 
   <code>Machine Learning</code> • 
   <code>Análise de Dados</code>
 </p>
