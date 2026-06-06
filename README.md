@@ -4,7 +4,7 @@
   <b>Cursando Ciência de Dados na UEPB.</b>
 </p>
 
-Sou cientista de dados e estudante, sempre explorando novas técnicas e aprimorando minhas habilidades. Trabalho com análise, modelagem e automação de processos baseados em dados. Me interesso por desafios complexos e soluções eficientes. Aqui, compartilho projetos e estudos que aplico no dia a dia.
+Sou cientista de dados e estudante, também muito habilidoso em Front End e Ai, com stacks em LLMs e Ai Web Design sempre explorando novas técnicas e aprimorando minhas habilidades. Trabalho com análise, modelagem e automação de processos baseados em dados. Me interesso por desafios complexos e soluções eficientes. Aqui, compartilho projetos e estudos que aplico no dia a dia.
 
 ---
 <p align="center">
