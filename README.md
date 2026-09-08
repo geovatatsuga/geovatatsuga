@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Jeová Anderson 👋</h1>
 
 <h3 align="center">
-  Data • Automation • AI
+  Data • AI
 </h3>
 
 <p align="center">
